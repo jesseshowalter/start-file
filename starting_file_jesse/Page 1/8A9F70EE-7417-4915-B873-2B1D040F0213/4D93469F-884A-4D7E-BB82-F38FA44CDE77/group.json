@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "4D93469F-884A-4D7E-BB82-F38FA44CDE77",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 289,
+    "width": 375,
+    "x": 0,
+    "y": 378
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B81A07CD-63CB-463D-8D7C-B8D0546C6C6E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "54C471BF-F64B-43DD-BDFB-47B1D20EFCD2"
+    },
+    {
+      "class": "group",
+      "id": "48F1B218-18A3-4CF3-84CA-8943E2223199"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F49DC184-8E0B-4918-8923-4D17F8DFE611"
+    }
+  ],
+  "name": "keyboard_set",
+  "nameIsFixed": true,
+  "originalObjectID": "412A360D-5234-41C3-BF51-733658EE0695",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

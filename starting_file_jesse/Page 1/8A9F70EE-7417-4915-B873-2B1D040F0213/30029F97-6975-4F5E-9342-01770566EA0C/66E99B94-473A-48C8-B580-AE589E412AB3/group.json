@@ -1,0 +1,97 @@
+{
+  "_class": "group",
+  "do_objectID": "66E99B94-473A-48C8-B580-AE589E412AB3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 73,
+    "width": 310,
+    "x": 79,
+    "y": 147
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7786D73A-699B-4D6F-AC3F-28D5F2FCD6BE"
+    }
+  ],
+  "name": "message",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.silverflows.osx.silver": {
+      "componentInfo": {
+        "gestures": [
+          {
+            "action": {
+              "animateInTransition": "_PUSH_RIGHT",
+              "behavior": "_ARTBOARD_LINK",
+              "scrollToTopAfterReplace": 1,
+              "showModalAsOverlay": 0,
+              "transitionType": "_PUSH"
+            },
+            "animateInTransition": "_PUSH_RIGHT",
+            "behavior": "_ARTBOARD_LINK",
+            "id": "4212BA82-8AFC-4F2D-8D4B-07D8DCD6ACCE",
+            "numberOfTaps": 1,
+            "scrollToTopAfterReplace": 1,
+            "showModalAsOverlay": 0,
+            "transitionType": "_PUSH",
+            "type": "_TAP"
+          },
+          {
+            "action": {
+              "animateInTransition": "_DISSOLVE",
+              "artboardID": "03F57517-FF9C-4503-91B7-0B81FDC0CCAF",
+              "behavior": "_ARTBOARD_LINK",
+              "scrollToTopAfterReplace": 1,
+              "showModalAsOverlay": 0,
+              "transitionType": "_PUSH"
+            },
+            "animateInTransition": "_DISSOLVE",
+            "artboardID": "03F57517-FF9C-4503-91B7-0B81FDC0CCAF",
+            "behavior": "_ARTBOARD_LINK",
+            "id": "AF47977C-3101-477A-8658-5EF8C59E46AC",
+            "numberOfTaps": 1,
+            "scrollToTopAfterReplace": 1,
+            "showModalAsOverlay": 0,
+            "transitionType": "_PUSH",
+            "type": "_SWIPE_LEFT"
+          }
+        ],
+        "id": "1FD645DB-7887-4DB8-B9E6-A33BF4D1B0B3",
+        "silverID": "1FD645DB-7887-4DB8-B9E6-A33BF4D1B0B3"
+      },
+      "componentType": "Link",
+      "version": 1
+    }
+  }
+}

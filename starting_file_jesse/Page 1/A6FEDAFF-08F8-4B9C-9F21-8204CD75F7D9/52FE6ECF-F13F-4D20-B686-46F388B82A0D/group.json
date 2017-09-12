@@ -1,0 +1,125 @@
+{
+  "_class": "group",
+  "do_objectID": "52FE6ECF-F13F-4D20-B686-46F388B82A0D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1892,
+    "width": 360,
+    "x": 8,
+    "y": 89
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "22B82327-DFD9-464D-9639-F2E43F3BB728"
+    },
+    {
+      "class": "bitmap",
+      "id": "E8D989EC-21A1-473E-946E-F4810E44E191"
+    },
+    {
+      "class": "bitmap",
+      "id": "7EAC5E9C-DAD5-4EA9-BD59-C1ADDB562D8A"
+    },
+    {
+      "class": "bitmap",
+      "id": "1772A18F-CD1B-4D07-AD4C-77D772E74D44"
+    },
+    {
+      "class": "bitmap",
+      "id": "7E0D7FFF-D98A-4E58-8236-451AC6F2F5B3"
+    },
+    {
+      "class": "bitmap",
+      "id": "7BD1B8EF-ABDC-4D42-9421-760EC5586EE6"
+    },
+    {
+      "class": "bitmap",
+      "id": "5F14FDB4-68EB-456B-9AD1-BA2E1463F1AF"
+    },
+    {
+      "class": "bitmap",
+      "id": "C6E61EE2-34A2-4794-AE59-CD7AE200BA62"
+    },
+    {
+      "class": "bitmap",
+      "id": "BB97BC1E-9874-4D89-91A8-DAF30A089266"
+    },
+    {
+      "class": "bitmap",
+      "id": "75345427-5FBA-49E7-92F6-A0627C9C41C0"
+    },
+    {
+      "class": "bitmap",
+      "id": "3B449DA6-4066-496C-A33A-D23BCF95F064"
+    },
+    {
+      "class": "bitmap",
+      "id": "A5A5F308-865A-47E3-9B2A-5F33360D4806"
+    },
+    {
+      "class": "bitmap",
+      "id": "11F9B297-989C-4072-9266-387DDCB55A38"
+    },
+    {
+      "class": "bitmap",
+      "id": "79A9F0F0-A22B-4EB4-B1A9-BF7C1D2B7168"
+    },
+    {
+      "class": "bitmap",
+      "id": "59714F16-767C-438A-B428-50A639BD1888"
+    },
+    {
+      "class": "bitmap",
+      "id": "2CC3C656-7715-4577-8959-A15142AC8928"
+    },
+    {
+      "class": "bitmap",
+      "id": "51FF218F-CB2A-4433-843D-CE5665DC3935"
+    },
+    {
+      "class": "bitmap",
+      "id": "8FE3E913-4518-4EB1-9C50-C91CA5CA03A8"
+    },
+    {
+      "class": "group",
+      "id": "DEBC48F7-569E-49D4-BDCA-B06CD47F4352"
+    }
+  ],
+  "name": "flyers",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.71875,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

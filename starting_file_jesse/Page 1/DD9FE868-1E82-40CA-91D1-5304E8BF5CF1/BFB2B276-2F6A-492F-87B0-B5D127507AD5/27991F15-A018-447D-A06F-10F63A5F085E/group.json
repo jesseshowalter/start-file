@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "do_objectID": "27991F15-A018-447D-A06F-10F63A5F085E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 239,
+    "x": 0,
+    "y": 1.4210854715202e-14
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6B0D9FE9-3BDB-464B-8165-5FF5D6AA6D52"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2AEFD029-C5AC-40B2-8346-D6867BECE549"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5A1DF775-89DF-4F8E-8714-D12FFD6B4B95"
+    },
+    {
+      "class": "text",
+      "id": "859085B7-FB25-4192-AE4E-962354612F5D"
+    },
+    {
+      "class": "text",
+      "id": "5585535D-9D85-4C2F-A297-FE09ACEC5C87"
+    }
+  ],
+  "name": "Segmented Controller - 2 Segments",
+  "nameIsFixed": true,
+  "originalObjectID": "37F07462-2022-459F-835E-F0D1AF1EB185",
+  "resizingConstraint": 45,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.208955223880597,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

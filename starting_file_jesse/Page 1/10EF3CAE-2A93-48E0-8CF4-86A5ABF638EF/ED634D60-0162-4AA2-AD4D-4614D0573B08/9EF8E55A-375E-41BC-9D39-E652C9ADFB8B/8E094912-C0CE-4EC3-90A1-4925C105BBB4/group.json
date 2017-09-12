@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "do_objectID": "8E094912-C0CE-4EC3-90A1-4925C105BBB4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 655,
+    "width": 376,
+    "x": 0.6567454753728413,
+    "y": 0.3661129826579491
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "010C77A0-3E19-44A2-B2DA-F8DAB3A0D969"
+    },
+    {
+      "class": "bitmap",
+      "id": "812DB860-4A10-4C42-8E08-47F333B9C335"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DA93B996-AC98-48DE-A39F-DA0B2AFFC454"
+    },
+    {
+      "class": "group",
+      "id": "1652CC6A-1374-4C5D-BCF7-95D7377EF334"
+    },
+    {
+      "class": "group",
+      "id": "3F6D7F55-C09C-445D-B390-D2EBF29BEA0D"
+    },
+    {
+      "class": "group",
+      "id": "BB8E7DB7-FE80-45DD-99A7-8A44BF03FEA4"
+    },
+    {
+      "class": "bitmap",
+      "id": "8E151E6D-F3C2-4962-9660-4952726B2B79"
+    },
+    {
+      "class": "bitmap",
+      "id": "89678C30-EEBE-40BC-B3BA-DAB22E37442B"
+    }
+  ],
+  "name": "framed_iphone_illustrated",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12.75016677925361,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

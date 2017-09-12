@@ -1,0 +1,68 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "CCCBA7DE-1909-44B5-BF6F-6A8F2B56C4D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 101,
+    "width": 67,
+    "x": 10,
+    "y": 121
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/e0005f5f1f9e61c6f76ee3d79712337a6d4437fb",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "slack-imgs",
+  "nameIsFixed": false,
+  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
+  "nineSliceScale": "{0, 0}",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 101,
+            "enabled": 1,
+            "modelID": "constraint_ac9dbfe4-27ad-4d24-9cef-a6adcc87cc60",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 67.05738
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_7e392b15-443d-4d1e-8831-59a138175120",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

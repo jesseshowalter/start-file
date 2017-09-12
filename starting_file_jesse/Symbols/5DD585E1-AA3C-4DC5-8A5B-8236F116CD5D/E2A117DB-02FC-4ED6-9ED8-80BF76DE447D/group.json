@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "do_objectID": "E2A117DB-02FC-4ED6-9ED8-80BF76DE447D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 6,
+    "width": 34,
+    "x": 2,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C6FFA290-D480-4A68-B078-30E128B0F757"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "044D8582-6797-4FB1-9D64-581E75A370D1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "58FA20DB-C536-4A39-BC69-83BC86581871"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "697CA68E-DFFC-483E-B64B-70AA013F4D4E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "99BD86E1-DE31-4F2D-822A-3ED4B0F0203E"
+    }
+  ],
+  "name": "Signal",
+  "nameIsFixed": true,
+  "originalObjectID": "0703CA2C-7249-4DD2-9C87-D8AE156760DB",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.71875,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

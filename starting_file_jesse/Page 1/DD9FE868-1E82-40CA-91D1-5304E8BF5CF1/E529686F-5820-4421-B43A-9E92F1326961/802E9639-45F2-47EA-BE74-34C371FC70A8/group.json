@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "802E9639-45F2-47EA-BE74-34C371FC70A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 160,
+    "width": 345,
+    "x": 0,
+    "y": 7
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DD994B7C-C697-4F23-8840-C0C4F7F1BC04"
+    },
+    {
+      "class": "bitmap",
+      "id": "1E72A06C-1AD8-4DE2-98B5-6961C7D2E9F4"
+    },
+    {
+      "class": "group",
+      "id": "5A5F9B51-E758-4F8E-9C5B-8EB170B9A480"
+    }
+  ],
+  "name": "stella_dot_1a_background@2x",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

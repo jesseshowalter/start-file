@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "B06988BD-7A72-41A8-B50A-25AD8DF73D78",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 355,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "DB46060D-6EC1-4716-9520-8022CC2B3177"
+    },
+    {
+      "class": "text",
+      "id": "F09D30ED-AF17-41E3-AE69-53763713FCE4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "23E81F10-2843-46D0-BAE5-09CB4FCD81E7"
+    },
+    {
+      "class": "group",
+      "id": "D75F17D6-CFC0-4555-B2D7-267B89688DDE"
+    },
+    {
+      "class": "group",
+      "id": "CA8D83DD-DEA2-4865-B6FB-D9A9700D1A2B"
+    }
+  ],
+  "name": "Message - Left",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "C11230AC-C41F-4054-BD7B-2600755ABBDF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 30,
+    "width": 30,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "2E6FA31D-0DFF-48CB-9299-B5CAC6E7EA92"
+    }
+  ],
+  "name": "Avatar",
+  "nameIsFixed": true,
+  "originalObjectID": "D6A079F3-E484-4ADF-B922-D81164685970",
+  "resizingConstraint": 9,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.464999814364647,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7529411764705882,
+          "green": 0.8901960784313725,
+          "red": 0.3098039215686275
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/765abac20c082774369e5e565ff6ee4eba093a10",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 29.52,
+            "enabled": 1,
+            "modelID": "constraint_b0af9d41-1182-4f2c-8243-98e0391200fc",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 29.52
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_14e23f67-5fe7-446a-95bb-87afa3e9985e",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    },
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "folder": "/Users/jesseshowalter/Dropbox (Hobnob)/HobNob Design/images/Avatars Stock/male",
+        "icon": "smile",
+        "index": 2,
+        "mode": "local",
+        "title": "Avatars Male"
+      }
+    }
+  },
+  "windingRule": 1
+}

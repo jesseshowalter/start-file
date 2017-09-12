@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "6BFD638E-C025-4BE6-B592-4A754F5873A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 23,
+    "width": 40,
+    "x": 66,
+    "y": 58
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8AA6DF7B-B5FA-48AA-A7F0-9D7000AAFFCD"
+    },
+    {
+      "class": "group",
+      "id": "30E0F3D0-41AB-4BF5-BE9F-E37D068851B4"
+    }
+  ],
+  "name": "Chat/reaction_cta",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

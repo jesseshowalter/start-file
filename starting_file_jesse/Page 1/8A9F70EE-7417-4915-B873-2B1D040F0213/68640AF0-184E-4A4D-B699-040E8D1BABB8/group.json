@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "68640AF0-184E-4A4D-B699-040E8D1BABB8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 68,
+    "width": 355,
+    "x": 20,
+    "y": 435
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EC2C528F-BF0C-4617-81AB-4944CB536070"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6540C398-B5B4-4D36-B8F3-E84058DEB413"
+    },
+    {
+      "class": "group",
+      "id": "D4699CD0-E0F2-4926-8064-CED0F87AC89C"
+    }
+  ],
+  "name": "message3 ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.silverflows.osx.silver": {
+      "componentInfo": {
+        "gestures": [
+          {
+            "action": {
+              "animateInTransition": "_PUSH_RIGHT",
+              "behavior": "_ARTBOARD_LINK",
+              "scrollToTopAfterReplace": 1,
+              "showModalAsOverlay": 0,
+              "transitionType": "_PUSH"
+            },
+            "animateInTransition": "_PUSH_RIGHT",
+            "behavior": "_ARTBOARD_LINK",
+            "id": "4212BA82-8AFC-4F2D-8D4B-07D8DCD6ACCE",
+            "numberOfTaps": 1,
+            "scrollToTopAfterReplace": 1,
+            "showModalAsOverlay": 0,
+            "transitionType": "_PUSH",
+            "type": "_TAP"
+          },
+          {
+            "action": {
+              "animateInTransition": "_DISSOLVE",
+              "artboardID": "03F57517-FF9C-4503-91B7-0B81FDC0CCAF",
+              "behavior": "_ARTBOARD_LINK",
+              "scrollToTopAfterReplace": 1,
+              "showModalAsOverlay": 0,
+              "transitionType": "_PUSH"
+            },
+            "animateInTransition": "_DISSOLVE",
+            "artboardID": "03F57517-FF9C-4503-91B7-0B81FDC0CCAF",
+            "behavior": "_ARTBOARD_LINK",
+            "id": "AF47977C-3101-477A-8658-5EF8C59E46AC",
+            "numberOfTaps": 1,
+            "scrollToTopAfterReplace": 1,
+            "showModalAsOverlay": 0,
+            "transitionType": "_PUSH",
+            "type": "_SWIPE_LEFT"
+          }
+        ],
+        "id": "1FD645DB-7887-4DB8-B9E6-A33BF4D1B0B3",
+        "silverID": "1FD645DB-7887-4DB8-B9E6-A33BF4D1B0B3"
+      },
+      "componentType": "Link",
+      "version": 1
+    }
+  }
+}

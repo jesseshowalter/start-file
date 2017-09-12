@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "B7CC62B0-9136-4741-A97A-3F40A5ED7C12",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 53,
+    "width": 346,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DEBE7328-DE31-423D-A6FC-E6A306FF7E1A"
+    },
+    {
+      "class": "text",
+      "id": "93BA2C1D-FC29-4C8D-B024-B1F5BAB0A1F9"
+    },
+    {
+      "class": "text",
+      "id": "3274CCB0-2C6B-4EE5-8126-AB749A7737D3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C11230AC-C41F-4054-BD7B-2600755ABBDF"
+    }
+  ],
+  "name": "Message - Left",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

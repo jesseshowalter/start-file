@@ -1,0 +1,126 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "A4508BAD-81E8-45A0-9E6A-3461B51BFBB8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 30,
+    "width": 30,
+    "x": 0,
+    "y": 22
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "E308D55A-48BD-42C4-8213-F2C40E82D9F2"
+    }
+  ],
+  "name": "Avatar",
+  "nameIsFixed": true,
+  "originalObjectID": "D6A079F3-E484-4ADF-B922-D81164685970",
+  "resizingConstraint": 9,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.464999814364647,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7529411764705882,
+          "green": 0.8901960784313725,
+          "red": 0.3098039215686275
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/d29445985e1abf8fee08685f8bebfa6f74983040",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 29.52,
+            "enabled": 1,
+            "modelID": "constraint_b0af9d41-1182-4f2c-8243-98e0391200fc",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 29.52
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_14e23f67-5fe7-446a-95bb-87afa3e9985e",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    },
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "folder": "/Users/jesseshowalter/Desktop/Avatars Stock/neutral",
+        "icon": "smile",
+        "index": 0,
+        "mode": "local",
+        "title": "Avatars Neutral"
+      }
+    }
+  },
+  "windingRule": 1
+}

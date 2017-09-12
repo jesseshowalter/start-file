@@ -1,0 +1,112 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 0,
+    "red": 0.9955842391304346
+  },
+  "changeIdentifier": 110,
+  "do_objectID": "7E518434-E03A-4DDE-B278-671C2710B59E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 375,
+    "x": 4069,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9A986255-65C5-4BEA-93CA-E9BD246D2085"
+    },
+    {
+      "class": "text",
+      "id": "BDA3A679-218F-48BE-BC8D-A7C50758F1C9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4282B95C-9F69-4573-AE50-CE4A199C0E23"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E4811CBE-8DB9-4DA4-AC9C-94C3828ED660"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E5F3BAC6-38B5-4CCE-9027-EFB6F5A43646"
+    }
+  ],
+  "name": "Keyboard/Typing Indicator",
+  "nameIsFixed": true,
+  "originalObjectID": "7E518434-E03A-4DDE-B278-671C2710B59E",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1C909526-5B7F-4152-880B-2F1023A1DC23",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

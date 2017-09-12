@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "2431232F-5F40-4491-B2F3-07349281B885",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 275,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4E269297-245A-46A8-8534-02FEF9653A10"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1E000A9C-D6AE-4272-92FB-526282BB5282"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "091DE75B-1F10-44BE-BE8B-5AD2D1133EAA"
+    },
+    {
+      "class": "text",
+      "id": "E4161CE3-507D-400B-8FA4-16AB5A1860E7"
+    },
+    {
+      "class": "text",
+      "id": "0880914C-1D83-44A2-8923-0E7DDFA9652F"
+    }
+  ],
+  "name": "Segmented Controller - 2 Segments",
+  "nameIsFixed": true,
+  "originalObjectID": "2431232F-5F40-4491-B2F3-07349281B885",
+  "resizingConstraint": 45,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.208955223880597,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

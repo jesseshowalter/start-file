@@ -1,0 +1,90 @@
+{
+  "_class": "group",
+  "do_objectID": "5B235F08-265F-4926-8C7C-51C664EB838A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 66,
+    "width": 345,
+    "x": 20,
+    "y": 81
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B16792F5-BF71-4F6C-9694-06A43E010E41"
+    },
+    {
+      "class": "group",
+      "id": "AA0754E7-B1A1-47AF-A3C3-76822353B8CA"
+    }
+  ],
+  "name": "message1",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.silverflows.osx.silver": {
+      "componentInfo": {
+        "gestures": [
+          {
+            "action": {
+              "animateInTransition": "_BOTTOM",
+              "animateOutTransition": "_DEFAULT",
+              "artboardID": "F5282752-A106-4E16-8EB5-E43C032B633D",
+              "behavior": "_ARTBOARD_LINK",
+              "distractorType": "_NONE",
+              "interactiveOutTransition": "_NONE",
+              "scrollToTopAfterReplace": 1,
+              "showModalAsOverlay": 1,
+              "transitionType": "_MODAL"
+            },
+            "animateInTransition": "_BOTTOM",
+            "animateOutTransition": "_DEFAULT",
+            "artboardID": "F5282752-A106-4E16-8EB5-E43C032B633D",
+            "behavior": "_ARTBOARD_LINK",
+            "distractorType": "_NONE",
+            "id": "1F13EDBB-DB54-46F9-901B-F6F7804D6D75",
+            "interactiveOutTransition": "_NONE",
+            "numberOfTaps": 1,
+            "scrollToTopAfterReplace": 1,
+            "showModalAsOverlay": 1,
+            "transitionType": "_MODAL",
+            "type": "_TAP"
+          }
+        ],
+        "id": "49A2D48E-1342-44F0-B512-554273A228B7",
+        "silverID": "49A2D48E-1342-44F0-B512-554273A228B7"
+      },
+      "componentType": "Link",
+      "version": 1
+    }
+  }
+}

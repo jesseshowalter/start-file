@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "C999D258-9626-42D9-BE55-339ED2F8E450",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 125,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5DDBC80A-15DB-4752-8FCE-E26B01735296"
+    },
+    {
+      "class": "text",
+      "id": "A4622F7A-0DAA-496C-BD0B-DE604769EAD8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B93FEBC2-9190-4EC4-97E6-5BBCDB8DEC15"
+    }
+  ],
+  "name": "Navigation/Community Top Bar Item",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
