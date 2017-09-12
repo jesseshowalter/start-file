@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGS0xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QEgcIDxAaGxwmLTE5Ojs8PUFFR1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBGAA1RDaGF00xESChMWGVdOUy5rZXlzWk5TLm9iamVjdHOiFBWABIAFohcYgAaACIAQXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXWHR4fCiAhIiMkJSIkW05TQWxpZ25tZW50Wk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0EAGAACNAOAAAAAAAAIAH0icoKSpaJGNsYXNzbmFtZVgkY2xhc3Nlc18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloykrLF8QEE5TUGFyYWdyYXBoU3R5bGVYTlNPYmplY3TSCi4vMF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgA+ACdMREgoyNTiiMzSACoALojY3gAyADYAOXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDQAAAAAAABdU0ZVSVRleHQtQm9sZNInKD4/XxATTlNNdXRhYmxlRGljdGlvbmFyeaM+QCxcTlNEaWN0aW9uYXJ50icoQkNfEBBOU0ZvbnREZXNjcmlwdG9yokQsXxAQTlNGb250RGVzY3JpcHRvctInKEBGokAs0icoSElfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiSixfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRTU5Ucm9vdIABAAgAEQAaACMALQAyADcATABSAFkAYgBpAHYAeAB6AHwAgQCIAJAAmwCeAKAAogClAKcAqQCrAL4A4ADtAPkBBAEWATgBSgFMAU4BVwFZAV4BaQFyAYwBkAGjAawBsQHOAdAB0gHZAdwB3gHgAeMB5QHnAekB/wIVAh4CLAIxAkcCSwJYAl0CcAJzAoYCiwKOApMCqAKrAsAC0gLVAtoAAAAAAAACAQAAAAAAAABPAAAAAAAAAAAAAAAAAAAC3A=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "594E2801-7782-4F58-82B9-BAD165D6DC46",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 48,
+    "x": 221,
+    "y": 522
+  },
+  "glyphBounds": "{{1, 4}, {46, 16}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Chat",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "3C1A0029-A5A0-43F6-BD28-D2B93D7D7667"
+  },
+  "textBehaviour": 0
+}

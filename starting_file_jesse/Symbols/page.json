@@ -62,6 +62,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "D6138ADF-71B5-47A6-899C-0577F8A8A1CF"
+    },
+    {
+      "class": "symbolMaster",
       "id": "DB83B47D-3115-4508-98CF-FD088E638EE6"
     },
     {
@@ -254,6 +258,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "AF8AF789-0ECF-4AC1-94CA-71F42641F26F"
+    },
+    {
+      "class": "symbolMaster",
       "id": "6AEE7D3C-0135-4C77-BF50-0B2632DF948F"
     },
     {
@@ -282,6 +290,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "D60B230A-43C7-422B-A117-400C4616D7D7"
+    },
+    {
+      "class": "symbolMaster",
       "id": "02A0D972-86B5-47A8-989F-EC9AAE19C054"
     },
     {
@@ -290,23 +302,11 @@
     },
     {
       "class": "symbolMaster",
-      "id": "1AE54947-7266-4D9B-8BAA-C2ECDE014A46"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "D92302A1-61DD-4C12-99E1-536C05CE859F"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "37B270E0-2C84-4AE9-8CE1-D2D079E19815"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "D60B230A-43C7-422B-A117-400C4616D7D7"
-    },
-    {
-      "class": "symbolMaster",
       "id": "D6D00933-ECF4-481C-9C27-4BEB76B62E96"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1AE54947-7266-4D9B-8BAA-C2ECDE014A46"
     },
     {
       "class": "symbolMaster",
@@ -314,7 +314,15 @@
     },
     {
       "class": "symbolMaster",
+      "id": "D92302A1-61DD-4C12-99E1-536C05CE859F"
+    },
+    {
+      "class": "symbolMaster",
       "id": "2CF60CCF-9137-4076-AABB-1C794960AA74"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "37B270E0-2C84-4AE9-8CE1-D2D079E19815"
     },
     {
       "class": "symbolMaster",
@@ -365,12 +373,8 @@
       "id": "38CF5408-B22E-401F-892D-DCB157C6B232"
     },
     {
-      "class": "symbolMaster",
-      "id": "D6138ADF-71B5-47A6-899C-0577F8A8A1CF"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "AF8AF789-0ECF-4AC1-94CA-71F42641F26F"
+      "class": "group",
+      "id": "065C31DA-E4FB-4AAF-A290-87D16855D12C"
     }
   ],
   "name": "Symbols",
@@ -386,20 +390,20 @@
     "startDecorationType": 0
   },
   "userInfo": {
-    "com.example.sketch.44673736-18ee-470e-b22a-f17fbb378238": {
-      "displayTitles": 0,
+    "com.silverflows.osx.silver.updated": {
+      "361EC266-1807-4D79-B49B-73D80CFF47DA": 1494363451
+    },
+    "com.sonburn.sketchplugins.symbol-organizer": {
+      "displayTitles": 1,
       "gatherSymbols": 0,
       "groupDepth": 1,
       "maxPer": "",
       "removeSymbols": 0,
-      "renameSymbols": 1,
+      "renameSymbols": 0,
       "reverseOrder": 0,
-      "sortDirection": 0,
+      "sortDirection": 1,
       "xPad": "50",
       "yPad": "50"
-    },
-    "com.silverflows.osx.silver.updated": {
-      "361EC266-1807-4D79-B49B-73D80CFF47DA": 1494363451
     }
   },
   "verticalRulerData": {
