@@ -50,11 +50,6 @@
       "radius": 4.054552978044978,
       "type": 0
     },
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0.699999988079071
-    },
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0,
