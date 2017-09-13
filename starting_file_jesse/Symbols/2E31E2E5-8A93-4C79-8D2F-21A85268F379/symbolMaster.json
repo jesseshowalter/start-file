@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 21,
+  "changeIdentifier": 24,
   "do_objectID": "2E31E2E5-8A93-4C79-8D2F-21A85268F379",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 25,
     "width": 25,
-    "x": 0,
-    "y": 2558
+    "x": 1260,
+    "y": 1638
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -48,7 +48,7 @@
       "id": "71DFF78A-0E99-48DE-B678-4857E885D4E1"
     }
   ],
-  "name": "Icon/photo/black",
+  "name": "Icon/photo_black",
   "nameIsFixed": true,
   "originalObjectID": "2E31E2E5-8A93-4C79-8D2F-21A85268F379",
   "resizesContent": false,

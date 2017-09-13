@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 187,
+  "changeIdentifier": 190,
   "do_objectID": "6C0F8AAD-0482-45D7-A6DB-DAC05A6E84FC",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 25,
     "width": 25,
-    "x": 0,
-    "y": 2108
+    "x": 660,
+    "y": 1638
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -48,7 +48,7 @@
       "id": "70B9FAD7-5C36-4D27-9B42-1DBB01F8A83F"
     }
   ],
-  "name": "Icon/location/black",
+  "name": "Icon/location_black",
   "nameIsFixed": true,
   "originalObjectID": "6C0F8AAD-0482-45D7-A6DB-DAC05A6E84FC",
   "resizesContent": false,

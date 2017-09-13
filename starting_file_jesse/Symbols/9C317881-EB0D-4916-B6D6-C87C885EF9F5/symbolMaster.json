@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 90,
+  "changeIdentifier": 93,
   "do_objectID": "9C317881-EB0D-4916-B6D6-C87C885EF9F5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 25,
     "width": 25,
-    "x": 75,
-    "y": 2633
+    "x": 1410,
+    "y": 1638
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -48,7 +48,7 @@
       "id": "B2F2E540-0CD2-412F-8995-02E90EE43A0E"
     }
   ],
-  "name": "Icon/pin/grey",
+  "name": "Icon/pin_grey",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

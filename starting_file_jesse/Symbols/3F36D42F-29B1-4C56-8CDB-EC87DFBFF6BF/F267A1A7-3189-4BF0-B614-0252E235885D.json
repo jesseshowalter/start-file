@@ -7,7 +7,7 @@
     }
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "B0ACFFF6-9EB6-44E6-B744-AEDC3D4C4DF3",
+  "do_objectID": "F267A1A7-3189-4BF0-B614-0252E235885D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 24,
     "width": 96,
     "x": 173,
-    "y": 3217
+    "y": 2093
   },
   "glyphBounds": "{{1, 4}, {94, 19}}",
   "heightIsClipped": false,

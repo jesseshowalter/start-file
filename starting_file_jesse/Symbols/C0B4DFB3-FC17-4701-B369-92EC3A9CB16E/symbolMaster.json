@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 90,
+  "changeIdentifier": 93,
   "do_objectID": "C0B4DFB3-FC17-4701-B369-92EC3A9CB16E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 25,
     "width": 25,
-    "x": 150,
-    "y": 2633
+    "x": 1485,
+    "y": 1638
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -48,7 +48,7 @@
       "id": "55E9D8AC-C971-4B8C-9AED-76ECF9BF2D48"
     }
   ],
-  "name": "Icon/pin/shamrock",
+  "name": "Icon/pin_shamrock",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

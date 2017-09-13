@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 188,
+  "changeIdentifier": 191,
   "do_objectID": "4B90B360-6ECC-4A06-A709-837338342CA9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 25,
     "width": 25,
-    "x": 0,
-    "y": 1958
+    "x": 510,
+    "y": 1638
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -48,7 +48,7 @@
       "id": "93E7B572-BF07-4642-8B4C-CE5B76D9C6A8"
     }
   ],
-  "name": "Icon/check/shamrock",
+  "name": "Icon/check_shamrock",
   "nameIsFixed": true,
   "originalObjectID": "C6F8E3AF-C3A1-437A-9F75-709C7AAD9992",
   "resizesContent": false,

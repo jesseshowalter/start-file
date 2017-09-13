@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 34,
+  "changeIdentifier": 37,
   "do_objectID": "90D4FFA5-2164-45BC-A033-3E743F934567",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 0,
-    "y": 2708
+    "x": 1560,
+    "y": 1638
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -48,7 +48,7 @@
       "id": "3CB9F366-5041-469A-A0DA-12EDF16F511B"
     }
   ],
-  "name": "Icon/share arrow/white",
+  "name": "Icon/share_arrow_white",
   "nameIsFixed": true,
   "originalObjectID": "90D4FFA5-2164-45BC-A033-3E743F934567",
   "resizesContent": false,

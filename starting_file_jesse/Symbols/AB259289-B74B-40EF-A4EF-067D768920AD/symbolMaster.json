@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 51,
+  "changeIdentifier": 54,
   "do_objectID": "AB259289-B74B-40EF-A4EF-067D768920AD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 45,
     "width": 45,
-    "x": 95,
-    "y": 1788
+    "x": 245,
+    "y": 1638
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -48,7 +48,7 @@
       "id": "3D1F978D-567E-4432-9FAA-DBFCCDB492BC"
     }
   ],
-  "name": "Icon/Landing Pages/involved",
+  "name": "Icon/Landing Pages_involved",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

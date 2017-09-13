@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 441,
+  "changeIdentifier": 444,
   "do_objectID": "7E25D7A2-5055-4126-BEE9-FD23F764C92B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 25,
     "width": 25,
-    "x": 0,
-    "y": 2782
+    "x": 1634,
+    "y": 1638
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -48,7 +48,7 @@
       "id": "EBC1ED66-A6CC-4A4C-A8A7-F6ED07EDFB9B"
     }
   ],
-  "name": "Icon/x/white",
+  "name": "Icon/x_white",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

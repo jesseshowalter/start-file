@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 37,
+  "changeIdentifier": 40,
   "do_objectID": "06F91C16-0ADB-4DAF-9AE7-9789684DA941",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 25,
     "width": 25,
-    "x": 0,
-    "y": 2183
+    "x": 735,
+    "y": 1638
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -48,7 +48,7 @@
       "id": "071557D1-D3F3-4832-BA1A-27CAEE9083E9"
     }
   ],
-  "name": "Icon/member badge",
+  "name": "Icon/member_badge",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

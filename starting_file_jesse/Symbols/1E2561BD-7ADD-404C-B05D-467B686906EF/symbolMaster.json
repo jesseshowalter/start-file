@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 21,
+  "changeIdentifier": 24,
   "do_objectID": "1E2561BD-7ADD-404C-B05D-467B686906EF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 25,
     "width": 25,
-    "x": 0,
-    "y": 2633
+    "x": 1335,
+    "y": 1638
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -48,7 +48,7 @@
       "id": "AF82BF46-1C57-41A1-B003-BD8177FB019D"
     }
   ],
-  "name": "Icon/pin/black",
+  "name": "Icon/pin_black",
   "nameIsFixed": true,
   "originalObjectID": "1E2561BD-7ADD-404C-B05D-467B686906EF",
   "resizesContent": false,

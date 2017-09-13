@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 95,
+  "changeIdentifier": 98,
   "do_objectID": "683BCBF2-655E-489A-861B-B7FF4CA50042",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 25,
     "width": 25,
-    "x": 0,
-    "y": 2033
+    "x": 585,
+    "y": 1638
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -48,7 +48,7 @@
       "id": "281F1301-4CDC-4599-994E-D4EA66F3220E"
     }
   ],
-  "name": "Icon/invite/black",
+  "name": "Icon/invite_black",
   "nameIsFixed": true,
   "originalObjectID": "C6F8E3AF-C3A1-437A-9F75-709C7AAD9992",
   "resizesContent": false,
